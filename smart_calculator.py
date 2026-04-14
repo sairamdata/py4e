@@ -1,3 +1,4 @@
+# This is a simple calculator program for practice.
 import sys
 
 operators_supported = ['+','-','*','/']

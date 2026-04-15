@@ -3,7 +3,7 @@ import sys
 
 operators_supported = ['+','-','*','/']
 
-print("Input")
+print("Input:")
 
 try:
     first_num = float(input("Enter first number: "))
